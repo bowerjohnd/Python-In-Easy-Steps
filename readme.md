@@ -1,4 +1,4 @@
-Python in easy steps
+Python in easy steps,
 2nd Edition, © 2022
 Mike McGrath
 www.ineasysteps.com
